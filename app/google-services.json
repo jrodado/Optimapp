@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464664701048",
+    "project_id": "optimapp-jr-2023",
+    "storage_bucket": "optimapp-jr-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464664701048:android:72c5635ccf6daf055f658d",
+        "android_client_info": {
+          "package_name": "com.silvia.optimapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHn2LC_cmDRVktr2lxE9uZE2m_9Eg-lI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
