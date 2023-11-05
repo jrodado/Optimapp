@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "464664701048",
-    "project_id": "optimapp-jr-2023",
-    "storage_bucket": "optimapp-jr-2023.appspot.com"
+    "project_number": "197857435433",
+    "project_id": "optimapp-d0d0a",
+    "storage_bucket": "optimapp-d0d0a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:464664701048:android:72c5635ccf6daf055f658d",
+        "mobilesdk_app_id": "1:197857435433:android:0be5fedb9a477334f2a138",
         "android_client_info": {
           "package_name": "com.silvia.optimapp"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDHn2LC_cmDRVktr2lxE9uZE2m_9Eg-lI8"
+          "current_key": "AIzaSyAIJpM9-gur7pPsCS_MhFq-8DYKZMx8Ask"
         }
       ],
       "services": {
